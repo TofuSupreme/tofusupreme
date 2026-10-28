@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shante</h1>
-<h3 align="center">I'm a Computer Science student, Web Development BootCamp graduate, and Google Data Analytics Certificate holder</h3>
+<h3 align="center">I'm a Data Science Graduate student, and a busy mother of 2 residing in Japan.</h3>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python and Jupyter Notebook**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
